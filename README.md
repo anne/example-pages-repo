@@ -1,5 +1,1 @@
-layout: page
-title: "Index"
-permalink: /
-
-# example-pages-repo
+#Example Page
